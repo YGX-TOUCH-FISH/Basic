@@ -1,0 +1,3 @@
+D:/OOP2-Basic/windows_for_make/cmake-build-debug/CMakeFiles/code.dir
+D:/OOP2-Basic/windows_for_make/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP2-Basic/windows_for_make/cmake-build-debug/CMakeFiles/rebuild_cache.dir

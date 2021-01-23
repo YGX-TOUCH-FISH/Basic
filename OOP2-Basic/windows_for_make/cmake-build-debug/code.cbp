@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/OOP2-Basic/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code">
+				<Option output="D:/OOP2-Basic/windows_for_make/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OOP2-Basic/windows_for_make/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code/fast">
+				<Option output="D:/OOP2-Basic/windows_for_make/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OOP2-Basic/windows_for_make/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/OOP2-Basic/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/OOP2-Basic/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/OOP2-Basic/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/Basic.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/evalstate.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/evalstate.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/exp.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/exp.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/parser.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/parser.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/program.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/program.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/statement.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/Basic/statement.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/error.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/error.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/simpio.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/simpio.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/strlib.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/strlib.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/tokenscanner.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/StanfordCPPLib/tokenscanner.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="D:/OOP2-Basic/windows_for_make/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
